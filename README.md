@@ -19,6 +19,26 @@ Puedes descargar la versión más reciente de la aplicación desde los siguiente
 - **APK Palmarof**  
   https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-palmarof-release.apk
 
+## 📱 QR Descargas
+
+### APK FastAPI
+
+<p align="center">
+  <img src="./docs/qr_fastapi_release.png" width="300"/>
+</p>
+
+### APK Supabase
+
+<p align="center">
+  <img src="./docs/qr_supabase_release.png" width="300"/>
+</p>
+
+### APK Palmarof
+
+<p align="center">
+  <img src="./docs/qr_palmarof_release.png" width="300"/>
+</p>
+
 ### 📌 Nota
 
 - Estos enlaces siempre apuntan al **último release disponible (Latest)**.
