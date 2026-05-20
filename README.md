@@ -11,13 +11,13 @@ Este repositorio es utilizado para almacenar y generar los releases de descarga 
 Puedes descargar la versión más reciente de la aplicación desde los siguientes enlaces:
 
 - **APK FastAPI**  
-  https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-fastapi-release.apk
+  https://github.com/Agrotracks-com/agrotracks-mobile-releases/releases/latest/download/agrotrackmobile-fastapi-release.apk
 
 - **APK Supabase**  
-  https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-supabase-release.apk
+  https://github.com/Agrotracks-com/agrotracks-mobile-releases/releases/latest/download/agrotrackmobile-supabase-release.apk
 
 - **APK Palmarof**  
-  https://github.com/awsalcedo/agrotracks-releases/releases/latest/download/agrotrackmobile-palmarof-release.apk
+  https://github.com/Agrotracks-com/agrotracks-mobile-releases/releases/latest/download/agrotrackmobile-palmarof-release.apk
 
 ## 📱 QR Descargas
 
